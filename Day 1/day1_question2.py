@@ -28,4 +28,4 @@ for item in left_list:
 similarity_score = sum(similarity_values)
 
 # Printing the results for similarity_score.
-print(similarity_score) 
+print(similarity_score)
